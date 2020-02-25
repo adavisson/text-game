@@ -46,10 +46,6 @@ body {
   color: white;
 }
 
-#game {
-  /* padding: 25px; */
-}
-
 #terminal {
   display: flex;
   margin: auto;
