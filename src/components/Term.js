@@ -10,7 +10,7 @@ const Term = () => {
         barColor='black'
         allowTabs={false}
         hideTopBar={true}
-        style={{fontweight: "bold", fontSize: "1em"}}
+        style={{fontFamily: 'Krona One', fontweight: "bold", fontSize: "1em"}}
       />
     </div>
   );

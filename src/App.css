@@ -37,8 +37,22 @@
   }
 }
 
+body {
+  margin: 0;
+  font-family: 'Krona One';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: darkcyan;
+  color: white;
+}
+
+#game {
+  /* padding: 25px; */
+}
+
 #terminal {
   display: flex;
+  margin: auto;
   justify-content: center;
   align-items: center;
   height: 100vh;
