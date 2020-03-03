@@ -15,7 +15,7 @@ const Term = (props) => {
         spacing: '1%',
         fontFamily: 'monospace',
         width: "100%",
-        height: "50vh"
+        height: "60vh"
       }} 
       promptSymbol={`\u2620`}
       />
